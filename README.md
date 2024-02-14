@@ -32,7 +32,7 @@ This repository contains an ETL/ELT orchestration application built using Apache
 ``` airflow webserver ```
 ``` airflow celery worker ```
 ``` airflow celery flower ```
-. 
+
 5. Access the Airflow UI at `http://localhost:8080` to manage and monitor your workflows.
 
 6. Access the Celery Flower dashboard at `http://localhost:5555` to monitor Celery tasks.
